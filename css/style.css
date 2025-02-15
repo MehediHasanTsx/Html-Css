@@ -1,0 +1,32 @@
+body{
+    background: #39874658;
+}
+a
+{
+    color: #08f02736;
+    font-size: 40px;
+    text-emphasis: none;
+}
+ 
+table{
+
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: #28647836;
+}
+
+
+td,th{
+
+    border:2px solid #cc278f36;
+}
+
+ul{
+    /* list-style-type: square; */
+    list-style-type: disc;
+}
+ h1,
+ p,
+ spam,
+ strong{
+    border: 1px solid rgb(239, 6, 6);
+ }
